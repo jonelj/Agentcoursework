@@ -1,0 +1,13 @@
+[
+  "cat", "dog", "lion", "tiger", "elephant", "giraffe", "bear", "wolf", "fox", "rabbit", "deer", "zebra",
+  "kangaroo", "dolphin", "whale", "shark", "penguin", "owl", "parrot", "eagle", "panda", "horse", "monkey",
+  "gorilla", "chimpanzee", "chimp", "orangutan", "koala", "panda", "bison", "buffalo", "raccoon", "squirrel",
+  "beaver", "otter", "armadillo", "platypus", "hedgehog", "sloth", "moose", "reindeer", "elk", "lynx", "cheetah",
+  "leopard", "jaguar", "cougar", "wild boar", "camel", "alpaca", "llama", "wallaby", "wombat", "platypus",
+  "crow", "peacock", "turkey", "flamingo", "vulture", "hawk", "falcon", "crow", "stork", "sparrow", "crow", "seagull",
+  "eagle", "falcon", "pigeon", "quail", "bat", "rat", "mouse", "guinea pig", "rabbit", "hamster", "chinchilla",
+  "ferret", "gecko", "iguana", "lizard", "crocodile", "alligator", "boa", "python", "cobra", "viper", "chameleon",
+  "frog", "toad", "salamander", "newt", "turtle", "frog", "tortoise", "octopus", "squid", "sea turtle", "starfish",
+  "lobster", "crab", "shrimp", "clams", "urchin", "manta ray", "jellyfish", "stingray", "cuttlefish", "narwhal",
+  "manatee", "sea lion", "walrus", "seal", "coral", "sea cucumber", "squid"
+]
